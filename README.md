@@ -42,7 +42,6 @@ I'm a passionate developer who builds reliable web apps and trains practical mac
 ---
 
 ## 📈 GitHub Stats
-> If you want dynamic cards, uncomment or replace these image URLs (they're optional).
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=itskris2283&show_icons=true&theme=tokyonight)
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itskris2283&layout=compact&theme=tokyonight)
