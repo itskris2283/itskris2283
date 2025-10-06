@@ -28,7 +28,7 @@ I'm a passionate developer who builds reliable web apps and trains practical mac
 ## 🚀 Featured Projects
 
 - **AI Plant Disease Classifier** — TensorFlow model + Streamlit UI for detecting plant diseases.  
-  `github.com/itskris2283/plant-disease-classifier`
+  `https://github.com/itskris2283/plant-disease-classifier`
 
 - **MERN Blog Platform** — Full-stack blog with authentication, roles, and rich-text editor.  
   `github.com/itskris2283/mern-blog`
