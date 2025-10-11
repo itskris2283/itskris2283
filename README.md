@@ -30,14 +30,14 @@ I'm a passionate developer who builds reliable web apps and trains practical mac
 - **AI Plant Disease Classifier** — TensorFlow model + Streamlit UI for detecting plant diseases.  
   `https://github.com/itskris2283/plant-disease-classifier`
 
-- **MERN Blog Platform** — Full-stack blog with authentication, roles, and rich-text editor.  
-  `github.com/itskris2283/mern-blog`
+- **Recipe Share** — Full-stack Recipe sharing Website with image uploads, rich-text editor, etc..  
+  `https://github.com/itskris2283/Recipe-Share`
 
 - **Handwritten Digit Recognizer** — ML model + web demo to recognize digits from uploaded images.  
-  `github.com/itskris2283/digit-recognizer`
+  `https://github.com/itskris2283/Handwritten-Digit-Recognizer`
 
-- **Personal Portfolio** — Clean, responsive portfolio built with React and hosted on GitHub Pages.  
-  `github.com/itskris2283/portfolio`
+- **Lung Disease Classifier** — A Tensorflow Model to Classify chest X-rays into multiple diseases.  
+  `https://github.com/itskris2283/LungDiseaseClassifier`
 
 ---
 
