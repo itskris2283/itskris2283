@@ -2,70 +2,102 @@
 
 ### 🚀 Software Developer • ML & DL Enthusiast • MERN Stack Explorer
 
-I'm a passionate developer who builds reliable web apps and trains practical machine learning models. I enjoy blending backend systems with data-driven models to create useful tools and user-friendly products.
+<p align="center">
+  <a href="https://github.com/itskris2283">
+    <img src="https://komarev.com/ghpvc/?username=itskris2283&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  </a>
+</p>
 
 ---
 
 ## 🌟 About Me
-- 🔭 Currently working on MERN-based web apps and ML projects  
-- 🌱 Focused on Deep Learning with **TensorFlow** and classical ML with **scikit-learn**  
-- 💬 I love discussing architecture, model optimization, and clean code  
-- 📫 Contact: **krisprog2283@gmail.com**  
-- 🔗 LinkedIn: https://www.linkedin.com/in/krish-singh-078565322/
+- 🔭 Currently building **MERN web apps** and **ML-powered systems**  
+- 🌱 Exploring **Deep Learning (TensorFlow)** and advanced ML techniques  
+- 🧠 Interested in **AI systems + scalable backend architecture**  
+- 💬 Ask me about **backend dev, ML models, APIs, or system design**  
+- 📫 Reach me at: **krisprog2283@gmail.com**  
 
 ---
 
-## 💻 Core Tech Stack
-- **Languages:** Python · Java · JavaScript · TypeScript  
-- **Frontend:** React (MERN)  
-- **Backend:** Node.js · Express  
-- **Database:** MongoDB  
-- **ML / DL:** scikit-learn · TensorFlow  
-- **Tools & Dev:** Git · Docker · VS Code
+## 🔗 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/krish-singh-078565322/  
+- 💻 GitHub: https://github.com/itskris2283  
+
+---
+
+## 💻 Tech Stack
+
+### 🧑‍💻 Languages
+Python · Java · JavaScript · TypeScript  
+
+### 🌐 Web Development
+React · Node.js · Express · MongoDB  
+
+### 🤖 Machine Learning
+scikit-learn · TensorFlow  
+
+### ⚙️ Tools & Dev
+Git · Docker · VS Code  
 
 ---
 
 ## 🚀 Featured Projects
 
-- **AI Plant Disease Classifier** — TensorFlow model + Streamlit UI for detecting plant diseases.  
-  `https://github.com/itskris2283/plant-disease-classifier`
+### 🌱 AI Plant Disease Classifier  
+TensorFlow model + Streamlit UI for detecting plant diseases  
+🔗 https://github.com/itskris2283/plant-disease-classifier  
 
-- **Recipe Share** — Full-stack Recipe sharing Website with image uploads, rich-text editor, etc..  
-  `https://github.com/itskris2283/Recipe-Share`
+---
 
-- **Handwritten Digit Recognizer** — ML model + web demo to recognize digits from uploaded images.  
-  `https://github.com/itskris2283/Handwritten-Digit-Recognizer`
+### 🍲 Recipe Share  
+Full-stack MERN app with image uploads & rich-text editor  
+🔗 https://github.com/itskris2283/Recipe-Share  
 
-- **Lung Disease Classifier** — A Tensorflow Model to Classify chest X-rays into multiple diseases.  
-  `https://github.com/itskris2283/LungDiseaseClassifier`
+---
+
+### 🔢 Handwritten Digit Recognizer  
+ML model + web interface for digit recognition  
+🔗 https://github.com/itskris2283/Handwritten-Digit-Recognizer  
+
+---
+
+### 🫁 Lung Disease Classifier  
+Deep learning model for chest X-ray classification  
+🔗 https://github.com/itskris2283/LungDiseaseClassifier  
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=itskris2283&show_icons=true&theme=tokyonight)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itskris2283&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=itskris2283&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itskris2283&layout=compact&theme=tokyonight" height="170"/>
+</p>
 
 ---
 
 ## 🛠 How I Work
-- I prefer modular, testable code and clear API contracts.  
-- For ML, I iterate quickly with experiments, track metrics, and prioritize reproducibility.  
-- For web apps, I focus on user experience and scalable backend design.
+- I write **modular, scalable, and clean backend systems**  
+- I build ML pipelines with **experimentation + reproducibility in mind**  
+- I focus on **performance, UX, and real-world usability**  
 
 ---
 
-## 🤝 Want to collaborate?
-I’m open to contributions, freelance work, and interesting projects — especially at the intersection of web apps and ML.  
-Email me: **krisprog2283@gmail.com** or connect on LinkedIn.
+## 🤝 Open to Opportunities
+I’m open to:
+- 💼 Remote internships / roles (Backend / AI / ML)  
+- 🤝 Collaborations on impactful projects  
+- 🚀 Freelance work  
 
 ---
 
 ## 🎯 Quick Links
 - GitHub: https://github.com/itskris2283  
 - LinkedIn: https://www.linkedin.com/in/krish-singh-078565322/  
-- Email: krisprog2283@gmail.com
+- Email: krisprog2283@gmail.com  
 
 ---
 
-*Thanks for visiting — let’s build something useful! ✨*
+<p align="center">
+  ⭐ If you like my work, consider giving a star to my repositories!
+</p>
