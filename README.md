@@ -98,5 +98,5 @@
   <img src="https://www.gitskins.com/api/section/social?username=itskris2283&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F171411044%3Fu%3D23865ceae096d761fe1b892c4102339e4bcce5d3%26v%3D4&variant=wow&v=wow-social-1&mode=dark" width="100%" alt="Krish Singh contact links" />
 </picture>
 <p><a href="https://github.com/itskris2283">GitHub</a></p>
-<p><sub>Krish Singh · Wow Profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p><sub>Krish Singh</sub></p>
 </div>
