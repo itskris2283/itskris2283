@@ -6,6 +6,12 @@
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=itskris2283&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F171411044%3Fu%3D23865ceae096d761fe1b892c4102339e4bcce5d3%26v%3D4&variant=living-identity&label=Krish%20Singh&v=wow-living-identity-1&mode=light" />
   <img src="https://www.gitskins.com/api/section/hero?username=itskris2283&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F171411044%3Fu%3D23865ceae096d761fe1b892c4102339e4bcce5d3%26v%3D4&variant=living-identity&label=Krish%20Singh&v=wow-living-identity-1&mode=dark" width="100%" alt="Krish Singh animated Living Identity portrait and ASCII name" />
 </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/metro-map?username=itskris2283&mode=light" />
+  <img src="https://www.gitskins.com/api/section/metro-map?username=itskris2283&mode=dark" width="100%" alt="My repositories as a metro map, one line per language" />
+</picture>
+<p><sub>Commit Metro · every line is a language, every stop a project · made with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
 <p><strong>Frontend or full-stack engineer</strong> · the public internet</p>
 <p>Full-stack developer blending MERN, machine learning, and deep learning to create intelligent, future-ready products.</p>
 <p><a href="https://github.com/itskris2283">GitHub</a></p>
